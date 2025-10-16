@@ -1,5 +1,12 @@
 # 💬 Messaging App
 
+<img width="1919" height="964" alt="Screenshot 2025-10-16 214143" src="https://github.com/user-attachments/assets/8af53ab1-9fe2-49e1-88ae-c58c6ab7d6e8" />
+
+https://github.com/user-attachments/assets/7af2106c-8a08-47bd-adf3-2afee422400e
+
+
+https://github.com/user-attachments/assets/a699d0bb-2aae-47a6-9c1e-debcb73de156
+
 A full-stack **real-time messaging dashboard** built with **React, Express, Prisma, Socket.io**, and **Supabase (PostgreSQL)**.  
 It allows customer service teams to view, reply, and manage customer conversations — similar to a WhatsApp-style chat interface, powered by WebSockets for instant message updates.
 
